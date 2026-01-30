@@ -38,7 +38,7 @@
 </p>
 
 <hr/>
-## 🧠 About Me
+*🧠 About Me
 
 <pre>
 Name        : Karthik M S
