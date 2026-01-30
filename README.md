@@ -118,30 +118,22 @@ are where I learn best.
 ## 🌐 Connect With Me
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/mskarthik09" target="_blank">
-    <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20M%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   &nbsp;&nbsp;
 
-  <!-- INSTAGRAM GLOW -->
   <a href="https://www.instagram.com/im_karthik_ms" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Instagram-@im__karthik__ms-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Instagram-@im__karthik__ms-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   &nbsp;&nbsp;
+
   <a href="mailto:imkarthik.msk@gmail.com">
-    <img height="42" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/>
+    <img src="https://img.shields.io/badge/Gmail-imkarthik.msk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
 </p>
 
-<hr/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imkarthik09&style=for-the-badge&color=blue" />
-</p>
-
-<p align="center">
-⭐ From RTL to real systems — one commit at a time ⭐
-</p>
