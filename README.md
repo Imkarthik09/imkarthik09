@@ -38,6 +38,84 @@
 </p>
 
 <hr/>
+## 🧠 About Me
+
+<pre>
+Name        : Karthik M S
+Domain      : Electronics & Communication Engineering
+Core        : RTL Design • Digital Electronics
+Also Into   : Web Dev • UI Design • Hackathons
+Affiliation : IEEE Electron Devices Society
+Mindset     : Think in systems, build with intent
+</pre>
+
+I focus on **understanding systems internally** — from  
+**logic gates and RTL timing** to **real-time applications and interfaces**.
+
+Hackathons, problem-solving, and end-to-end building
+are where I learn best.
+
+<hr/>
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,verilog,html,css,git,github,linux,vscode&theme=dark&perline=11" />
+</p>
+
+<p align="center">
+  🧪 <b>LTspice</b> &nbsp;•&nbsp;
+  🧠 <b>Vivado</b> &nbsp;•&nbsp;
+  🔩 <b>Icarus Verilog</b> &nbsp;•&nbsp;
+  ⚡ <b>Cursor</b> &nbsp;•&nbsp;
+  ☕ <b>IntelliJ IDEA</b>
+</p>
+
+<hr/>
+
+## 🧬 Hybrid RTL-Style Contribution Activity
+
+<p align="center">
+  <i>Clock cycles don’t lie. Consistency is the real signal.</i>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imkarthik09&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imkarthik09&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imkarthik09&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imkarthik09&theme=tokyonight" />
+</p>
+
+<hr/>
+
+## 🧩 LeetCode Activity
+
+<p align="center">
+  <a href="https://leetcode.com/u/imkarthik09" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/imkarthik09?theme=dark&font=JetBrains%20Mono&ext=contest" />
+  </a>
+</p>
+
+<hr/>
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imkarthik09&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarthik09&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr/>
+
 
 
 
