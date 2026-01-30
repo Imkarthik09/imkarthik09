@@ -1,139 +1,50 @@
 <!-- =====================================================
+     C Y B E R P U N K   N E O N   P R O F I L E
      K A R T H I K   M   S
-     RTL × SPACE × SYSTEMS
 ===================================================== -->
 
-<h1 align="center">Hey, I'm Karthik 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=160&section=header&text=KARTHIK%20M%20S&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <h3 align="center">
-Electronics & Communication Engineering Undergraduate 🚀
+🧠 Electronics & Communication Engineering Undergraduate
 </h3>
 
 <p align="center">
-  <i>Designing logic • Shaping signals • Engineering impact</i>
+  <i>⚡ RTL Logic • Neon Code • Cyber Systems ⚡</i>
 </p>
 
 <p align="center">
-  <img src="profile.png" width="380" style="border-radius:18px;" />
+  <img src="https://raw.githubusercontent.com/imkarthik09/imkarthik09/main/profile.png" width="360" style="border-radius:22px;" />
 </p>
 
 <p align="center">
-  🏛️ <b>IEEE Electron Devices Society (EDS) Member</b>
+  <img src="https://img.shields.io/badge/IEEE-Electron%20Devices%20Society-00ffff?style=for-the-badge&logo=ieee&logoColor=black"/>
 </p>
 
 ---
 
-<!-- ================= TYPING HEADER ================= -->
+<!-- ================= NEON TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=950&height=55&lines=Electronics+%26+Communication+Engineering+Undergraduate;RTL+Design+%7C+Embedded+Systems+%7C+Web+Development;Hackathon+Builder+%7C+Problem+Solver;From+Silicon+to+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=900&color=FF00FF&center=true&vCenter=true&width=1000&height=60&lines=ECE+Undergraduate+%7C+RTL+Design+%7C+Embedded+Systems;Web+Developer+%7C+Graphic+Designer;Hackathon+Builder+%7C+System+Thinker;From+Silicon+to+Neon+Code" />
 </p>
 
-<!-- ================= STATUS BAR ================= -->
+<!-- ================= NEON STATUS ================= -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-ECE%20Undergrad-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-RTL%20%26%20Core%20Electronics-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Build%20%7C%20Break%20%7C%20Learn-critical?style=for-the-badge"/>
-</p>
-
-<hr/>
-
-## 🧠 About Me
-
-<pre>
-Name        : Karthik M S
-Domain      : Electronics & Communication Engineering
-Core        : RTL Design • Digital Electronics
-Also Into   : Web Dev • UI Design • Hackathons
-Affiliation : IEEE Electron Devices Society
-Mindset     : Think in systems, build with intent
-</pre>
-
-I focus on **understanding systems internally** — from  
-**logic gates and RTL timing** to **real-time applications and interfaces**.
-
-Hackathons, problem-solving, and end-to-end building
-are where I learn best.
-
-<hr/>
-
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,java,js,verilog,html,css,git,github,linux,vscode&theme=dark&perline=11" />
-</p>
-
-<p align="center">
-  🧪 <b>LTspice</b> &nbsp;•&nbsp;
-  🧠 <b>Vivado</b> &nbsp;•&nbsp;
-  🔩 <b>Icarus Verilog</b> &nbsp;•&nbsp;
-  ⚡ <b>Cursor</b> &nbsp;•&nbsp;
-  ☕ <b>IntelliJ IDEA</b>
+  <img src="https://img.shields.io/badge/CORE-RTL%20DESIGN-ff00ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STACK-ECE%20%7C%20WEB%20%7C%20DESIGN-00ffff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MODE-CYBERPUNK%20BUILDER-39ff14?style=for-the-badge"/>
 </p>
 
 <hr/>
 
-## 🧬 Hybrid RTL-Style Contribution Activity
+## 🧠 SYSTEM PROFILE
 
-<p align="center">
-  <i>Clock cycles don’t lie. Consistency is the real signal.</i>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imkarthik09&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imkarthik09&theme=tokyonight&utcOffset=5.5" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imkarthik09&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imkarthik09&theme=tokyonight" />
-</p>
-
-<hr/>
-
-## 🧩 LeetCode Activity
-
-<p align="center">
-  <a href="https://leetcode.com/u/imkarthik09" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/imkarthik09?theme=dark&font=JetBrains%20Mono&ext=contest" />
-  </a>
-</p>
-
-<hr/>
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imkarthik09&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkarthik09&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<hr/>
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/mskarthik09" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthik%20M%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  &nbsp;&nbsp;
-<p align="center">
-  <a href="https://www.instagram.com/im_karthik_ms" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@im__karthik__ms-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-
-  &nbsp;&nbsp;
-<p align="center">
-  <a href="mailto:imkarthik.msk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-imkarthik.msk@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-</p>
-
+```txt
+USER        : KARTHIK_M_S
+DOMAIN      : ELECTRONICS & COMMUNICATION ENGINEERING
+SPECIALTY   : RTL DESIGN | DIGITAL SYSTEMS
+EXTRA       : WEB DEV | UI | GRAPHIC DESIGN
+AFFILIATION : IEEE ELECTRON DEVICES SOCIETY
+MINDSET     : BUILD > BREAK > OPTIMIZE
