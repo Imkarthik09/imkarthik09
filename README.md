@@ -27,14 +27,14 @@
 
 <!-- ================= YELLOW TYPING ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=900&color=FACC15&center=true&vCenter=true&width=1000&height=60&lines=ECE+Undergraduate+%7C+RTL+Design;Web+Developer+%7C+Graphic+Designer;Hackathon+Builder+%7C+System+Thinker;From+Silicon+to+System+Level+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&pause=900&color=FACC15&center=true&vCenter=true&width=1000&height=60&lines=ECE+Undergraduate+%7C+ASIC+RTL+Design;Web+Developer+%7C+Graphic+Designer;Hackathon+Builder+%7C+System+Thinker;From+Silicon+to+System+Level+Design" />
 </p>
 
 <!-- ================= STATUS ================= -->
 <p align="center">
   <img src="https://img.shields.io/badge/DOMAIN-RTL%20DESIGN-facc15?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FOCUS-DIGITAL%20SYSTEMS-fbbf24?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MODE-YELLOW%20NEON%20BUILDER-f59e0b?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MODE-%20CRITICAL%20THINKER-f59e0b?style=for-the-badge"/>
 </p>
 
 <hr/>
