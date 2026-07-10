@@ -22,6 +22,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="450" alt="Circuit Board Animation">
+</p>
+
 ---
 
 ### 🧠 About Me
